@@ -39,7 +39,7 @@ This uses the `package.json` and `package-lock.json` files you’ve already comm
 
 ---
 
-## 🛠️ Environment Setup
+##  Environment Setup
 
 Create a `.env` file in the root directory and add the following:
 
@@ -56,7 +56,7 @@ Make sure your PostgreSQL server is running and the database exists.
 
 ---
 
-## 🧾 Running the Project
+##  Running the Project
 
 ### For Development (with hot reloading):
 
@@ -114,7 +114,7 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-## 📝 Notes
+##  Notes
 
 * All models and routes include validation and error handling.
 * Sequelize relationships are configured for `hasMany`, `belongsTo`, and `belongsToMany`.
