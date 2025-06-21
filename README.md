@@ -1,6 +1,6 @@
 ---
 
-````markdown
+````
 #  Healthcare Backend API
 
 This is a secure backend system for managing patients and doctors using **Node.js**, **Express.js**, **PostgreSQL**, and **Sequelize ORM**. It features user authentication, patient and doctor CRUD operations, and patient-doctor mappings.
