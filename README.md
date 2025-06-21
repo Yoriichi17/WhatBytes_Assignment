@@ -1,5 +1,3 @@
----
-
 ````
 #  Healthcare Backend API
 
@@ -129,5 +127,3 @@ Authorization: Bearer <your_token_here>
 Use **Postman** to test endpoints. Make sure to set headers properly for authenticated routes.
 https://www.postman.com/maintenance-cosmologist-12845390/workspace/anirudh/collection/31320871-77b619e5-8399-4847-9f95-c50250b5f373?action=share&creator=31320871
 
----
-```
