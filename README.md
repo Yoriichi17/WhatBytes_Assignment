@@ -1,5 +1,3 @@
----
-
 ````
 #  Healthcare Backend API
 
