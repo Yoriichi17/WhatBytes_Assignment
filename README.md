@@ -1,4 +1,6 @@
-````
+---
+
+````markdown
 #  Healthcare Backend API
 
 This is a secure backend system for managing patients and doctors using **Node.js**, **Express.js**, **PostgreSQL**, and **Sequelize ORM**. It features user authentication, patient and doctor CRUD operations, and patient-doctor mappings.
@@ -7,14 +9,14 @@ This is a secure backend system for managing patients and doctors using **Node.j
 
 ##  Tech Stack
 
-- Node.js + Express.js
-- PostgreSQL
-- Sequelize ORM
-- JWT Authentication
-- dotenv (for environment variables)
-- bcryptjs (for password hashing)
-- cors (for cross-origin access)
-- pg (PostgreSQL client)
+- Node.js + Express.js  
+- PostgreSQL  
+- Sequelize ORM  
+- JWT Authentication  
+- dotenv (for environment variables)  
+- bcryptjs (for password hashing)  
+- cors (for cross-origin access)  
+- pg (PostgreSQL client)  
 
 ---
 
@@ -39,7 +41,7 @@ This uses the `package.json` and `package-lock.json` files you’ve already comm
 
 ---
 
-##  Environment Setup
+## 🛠️ Environment Setup
 
 Create a `.env` file in the root directory and add the following:
 
@@ -56,7 +58,7 @@ Make sure your PostgreSQL server is running and the database exists.
 
 ---
 
-##  Running the Project
+## 🧾 Running the Project
 
 ### For Development (with hot reloading):
 
@@ -114,7 +116,7 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-##  Notes
+## 📝 Notes
 
 * All models and routes include validation and error handling.
 * Sequelize relationships are configured for `hasMany`, `belongsTo`, and `belongsToMany`.
@@ -125,5 +127,9 @@ Authorization: Bearer <your_token_here>
 ##  Testing
 
 Use **Postman** to test endpoints. Make sure to set headers properly for authenticated routes.
-https://www.postman.com/maintenance-cosmologist-12845390/workspace/anirudh/collection/31320871-77b619e5-8399-4847-9f95-c50250b5f373?action=share&creator=31320871
+Here’s the workspace link:
+ [Postman Collection](https://www.postman.com/maintenance-cosmologist-12845390/workspace/anirudh/collection/31320871-77b619e5-8399-4847-9f95-c50250b5f373?action=share&creator=31320871)
 
+---
+```
+```
