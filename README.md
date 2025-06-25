@@ -23,8 +23,8 @@ This is a secure backend system for managing patients and doctors using **Node.j
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Yoriichi17/WhatBytes_Assignment.git
+cd WhatBytes_Assignment
 ````
 
 ### 2. Install Dependencies
